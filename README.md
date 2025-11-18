@@ -5,7 +5,7 @@ Automatic classification of baseball pitch types from broadcast video using CNN-
 Authors: Jianchen Hong, Prakeerth Prasad, Amitha Javare Gowda  
 Course: MSAI 349 - Machine Learning  
 Institution: Northwestern University  
-Date: November 2024
+Date: November 2025
 
 ---
 
